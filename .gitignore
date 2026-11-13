@@ -1,0 +1,26 @@
+# Secrets
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Node
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Python
+.venv/
+__pycache__/
+
+# Runtime persistence (AgentRunner / sqlite demos)
+*.sqlite
+*.sqlite-journal
+*.db
+
+# Editor / OS
+.DS_Store
+*.log
+
+# Recorder output (large binaries) — publish as release assets instead
+autorecorder/videos/*.webm

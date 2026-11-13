@@ -1,0 +1,46 @@
+@import "tailwindcss";
+
+/* Lets `dark:` follow the OS, like the reference harness. */
+@custom-variant dark (@media (prefers-color-scheme: dark));
+
+:root {
+  /* Anthropic's book-cloth accent, shared with the React and Angular siblings. */
+  --accent: #c2603d;
+}
+
+@theme inline {
+  --color-accent: var(--accent);
+  --font-sans: "Geist", Arial, Helvetica, sans-serif;
+  --font-mono: "Geist Mono", ui-monospace, monospace;
+}
+
+body {
+  font-family: "Geist", Arial, Helvetica, sans-serif;
+}
+
+/* CopilotChat fills its container, so any panel holding one needs a height. */
+.chat-host {
+  height: 100%;
+  min-height: 20rem;
+}
+
+.code-figure .shiki {
+  margin: 0;
+  padding: 1rem;
+  font-size: 0.75rem;
+  line-height: 1.625;
+  background-color: transparent !important;
+}
+
+.code-figure .shiki code {
+  display: block;
+  width: max-content;
+  min-width: 100%;
+}
+
+.prose-notes code {
+  border-radius: 0.25rem;
+  background: rgb(148 163 184 / 0.18);
+  padding: 0.05rem 0.3rem;
+  font-size: 0.8em;
+}

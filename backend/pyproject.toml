@@ -1,0 +1,19 @@
+[project]
+name = "cpk-vue-claude-sdk-python-backend"
+version = "0.1.0"
+description = "Claude Agent SDK (Python) agent server for the CopilotKit + Vue test suite"
+requires-python = ">=3.11"
+
+# The Claude Agent SDK Python install line (ag-ui adapter + FastAPI host).
+dependencies = [
+    "claude-agent-sdk>=0.2.132",
+    "ag-ui-claude-sdk>=0.1.5",
+    "ag-ui-protocol>=0.1.19",
+    "anthropic>=0.68.0",
+    "fastapi>=0.115.2",
+    "uvicorn>=0.35.0",
+    "python-dotenv>=1.0.1",
+]
+
+[tool.uv]
+package = false

@@ -1,0 +1,617 @@
+{
+  "generatedAt": "2026-11-12T20:41:34.831Z",
+  "framework": "Claude Agent SDK (Python) + Vue",
+  "videoPrefix": "CLAUDESDK-PY-vue",
+  "clips": {
+    "quickstart": {
+      "order": 1,
+      "id": "quickstart",
+      "name": "Quickstart",
+      "file": "CLAUDESDK-PY-vue-01-Quickstart.webm",
+      "sources": [
+        "frontend/package.json",
+        "frontend/src/pages/quickstart/Demo.vue",
+        "frontend/src/pages/quickstart/Demo.vue"
+      ],
+      "sourceSha": "1d8c05d0b06f",
+      "recordedAt": "2026-11-12T18:16:34.082Z",
+      "bytes": 4605957,
+      "sha256": "0a260e134552",
+      "status": "new"
+    },
+    "prebuilt-components": {
+      "order": 2,
+      "id": "prebuilt-components",
+      "name": "Prebuilt Components",
+      "file": "CLAUDESDK-PY-vue-02-PrebuiltComponents.webm",
+      "sources": [
+        "frontend/src/pages/prebuilt-components/Demo.vue",
+        "frontend/src/pages/prebuilt-components/Demo.vue"
+      ],
+      "sourceSha": "5f084f2ade17",
+      "recordedAt": "2026-11-12T18:20:21.180Z",
+      "bytes": 7164078,
+      "sha256": "8c411ed61a27",
+      "status": "new"
+    },
+    "custom-look-and-feel-slots": {
+      "order": 3,
+      "id": "custom-look-and-feel-slots",
+      "name": "Slots",
+      "file": "CLAUDESDK-PY-vue-03-Slots.webm",
+      "sources": [
+        "frontend/src/pages/custom-look-and-feel/slots/Demo.vue",
+        "frontend/src/pages/custom-look-and-feel/slots/Demo.vue",
+        "frontend/src/pages/custom-look-and-feel/slots/Demo.vue"
+      ],
+      "sourceSha": "2c884d6029c1",
+      "recordedAt": "2026-11-12T18:23:57.246Z",
+      "bytes": 8974719,
+      "sha256": "bcf874601585",
+      "status": "new"
+    },
+    "custom-look-and-feel-headless-ui": {
+      "order": 4,
+      "id": "custom-look-and-feel-headless-ui",
+      "name": "Fully Headless UI",
+      "file": "CLAUDESDK-PY-vue-04-FullyHeadlessUI.webm",
+      "sources": [
+        "frontend/src/pages/custom-look-and-feel/headless-ui/Demo.vue"
+      ],
+      "sourceSha": "fcfc4f4d8cb1",
+      "recordedAt": "2026-11-12T18:26:53.622Z",
+      "bytes": 7211549,
+      "sha256": "65ac90941e91",
+      "status": "new"
+    },
+    "programmatic-control": {
+      "order": 5,
+      "id": "programmatic-control",
+      "name": "Programmatic Control",
+      "file": "CLAUDESDK-PY-vue-05-ProgrammaticControl.webm",
+      "sources": [
+        "frontend/src/pages/programmatic-control/Demo.vue"
+      ],
+      "sourceSha": "5d27c66e50c5",
+      "recordedAt": "2026-11-12T18:27:52.394Z",
+      "bytes": 4432345,
+      "sha256": "c72313c06b08",
+      "status": "new"
+    },
+    "inspector": {
+      "order": 6,
+      "id": "inspector",
+      "name": "Inspector",
+      "file": "CLAUDESDK-PY-vue-06-Inspector.webm",
+      "sources": [
+        "frontend/src/pages/inspector/Demo.vue"
+      ],
+      "sourceSha": "8e53b123b84a",
+      "recordedAt": "2026-11-12T18:29:50.330Z",
+      "bytes": 7221543,
+      "sha256": "9195d9a267e5",
+      "status": "new"
+    },
+    "prebuilt-components-copilot-threads-drawer": {
+      "order": 7,
+      "id": "prebuilt-components-copilot-threads-drawer",
+      "name": "Threads Drawer",
+      "file": "CLAUDESDK-PY-vue-07-ThreadsDrawer.webm",
+      "sources": [
+        "frontend/src/pages/prebuilt-components/copilot-threads-drawer/Demo.vue",
+        "frontend/src/pages/prebuilt-components/copilot-threads-drawer/Demo.vue"
+      ],
+      "sourceSha": "d00b40bff4cf",
+      "recordedAt": "2026-11-12T18:32:35.747Z",
+      "bytes": 5793983,
+      "sha256": "d266e6fa708d",
+      "status": "new"
+    },
+    "headless-threads": {
+      "order": 8,
+      "id": "headless-threads",
+      "name": "Headless Threads",
+      "file": "CLAUDESDK-PY-vue-08-HeadlessThreads.webm",
+      "sources": [
+        "frontend/src/pages/headless-threads/Demo.vue"
+      ],
+      "sourceSha": "3ddeadf694d6",
+      "recordedAt": "2026-11-12T18:35:21.087Z",
+      "bytes": 4864678,
+      "sha256": "783537c7fb8f",
+      "status": "new"
+    },
+    "threads-lifecycle": {
+      "order": 9,
+      "id": "threads-lifecycle",
+      "name": "Thread & History Lifecycle",
+      "file": "CLAUDESDK-PY-vue-09-ThreadHistoryLifecycle.webm",
+      "sources": [
+        "frontend/src/pages/threads-lifecycle/Demo.vue"
+      ],
+      "sourceSha": "fdee465b3619",
+      "recordedAt": "2026-11-12T18:36:50.289Z",
+      "bytes": 4259384,
+      "sha256": "64b2ee30ef09",
+      "status": "new"
+    },
+    "generative-ui-components": {
+      "order": 10,
+      "id": "generative-ui-components",
+      "name": "Components and surfaces",
+      "file": "CLAUDESDK-PY-vue-10-ComponentsAndSurfaces.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/Demo.vue"
+      ],
+      "sourceSha": "340a501b328d",
+      "recordedAt": "2026-11-12T18:38:43.330Z",
+      "bytes": 4072656,
+      "sha256": "9160698307f1",
+      "status": "new"
+    },
+    "generative-ui-components-surfaces": {
+      "order": 11,
+      "id": "generative-ui-components-surfaces",
+      "name": "Surfaces",
+      "file": "CLAUDESDK-PY-vue-11-Surfaces.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/surfaces/Demo.vue"
+      ],
+      "sourceSha": "500a54173ca1",
+      "recordedAt": "2026-11-12T18:43:04.513Z",
+      "bytes": 11065574,
+      "sha256": "bbe7ee4baa97",
+      "status": "new"
+    },
+    "generative-ui-components-catalogs": {
+      "order": 12,
+      "id": "generative-ui-components-catalogs",
+      "name": "Catalogs",
+      "file": "CLAUDESDK-PY-vue-12-Catalogs.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/catalogs/Demo.vue"
+      ],
+      "sourceSha": "1effc6a8f15b",
+      "recordedAt": "2026-11-12T20:37:39.716Z",
+      "bytes": 4261997,
+      "sha256": "ffc1de8ae6cd",
+      "status": "new"
+    },
+    "generative-ui-components-standard-catalog": {
+      "order": 13,
+      "id": "generative-ui-components-standard-catalog",
+      "name": "Standard Catalog",
+      "file": "CLAUDESDK-PY-vue-13-StandardCatalog.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/standard-catalog/Demo.vue"
+      ],
+      "sourceSha": "23bd403e5551",
+      "recordedAt": "2026-11-12T20:38:55.204Z",
+      "bytes": 3694821,
+      "sha256": "7ca97a230be2",
+      "status": "new"
+    },
+    "generative-ui-components-state-and-actions": {
+      "order": 14,
+      "id": "generative-ui-components-state-and-actions",
+      "name": "State and actions",
+      "file": "CLAUDESDK-PY-vue-14-StateAndActions.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/state-and-actions/Demo.vue"
+      ],
+      "sourceSha": "757260334bb0",
+      "recordedAt": "2026-11-12T20:40:02.364Z",
+      "bytes": 3064884,
+      "sha256": "dd72dd38fecc",
+      "status": "new"
+    },
+    "generative-ui-components-theming": {
+      "order": 15,
+      "id": "generative-ui-components-theming",
+      "name": "Theming",
+      "file": "CLAUDESDK-PY-vue-15-Theming.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/theming/Demo.vue"
+      ],
+      "sourceSha": "ba3dedbfa74f",
+      "recordedAt": "2026-11-12T19:09:55.714Z",
+      "bytes": 10166455,
+      "sha256": "7ad3173396ff",
+      "status": "new"
+    },
+    "generative-ui-components-transports": {
+      "order": 16,
+      "id": "generative-ui-components-transports",
+      "name": "Transports",
+      "file": "CLAUDESDK-PY-vue-16-Transports.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/transports/Demo.vue"
+      ],
+      "sourceSha": "eb0bb219fc35",
+      "recordedAt": "2026-11-12T19:13:21.340Z",
+      "bytes": 7204357,
+      "sha256": "44f76464325e",
+      "status": "new"
+    },
+    "generative-ui-components-markdown-mode": {
+      "order": 17,
+      "id": "generative-ui-components-markdown-mode",
+      "name": "Markdown Mode",
+      "file": "CLAUDESDK-PY-vue-17-MarkdownMode.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/markdown-mode/Demo.vue",
+        "frontend/src/pages/generative-ui/components/markdown-mode/Demo.vue"
+      ],
+      "sourceSha": "0cef70e982ca",
+      "recordedAt": "2026-11-12T20:41:26.373Z",
+      "bytes": 4420128,
+      "sha256": "700ef26eba67",
+      "status": "new"
+    },
+    "generative-ui-components-from-a2ui": {
+      "order": 18,
+      "id": "generative-ui-components-from-a2ui",
+      "name": "Adopt from A2UI",
+      "file": "CLAUDESDK-PY-vue-18-AdoptFromA2UI.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/components/from-a2ui/Demo.vue"
+      ],
+      "sourceSha": "baccec438116",
+      "recordedAt": "2026-11-12T19:20:20.106Z",
+      "bytes": 4183197,
+      "sha256": "34a0d973e4c1",
+      "status": "new"
+    },
+    "generative-ui-a2ui": {
+      "order": 19,
+      "id": "generative-ui-a2ui",
+      "name": "A2UI",
+      "file": "CLAUDESDK-PY-vue-19-A2UI.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/a2ui/Demo.vue"
+      ],
+      "sourceSha": "201ef9e16f3c",
+      "recordedAt": "2026-11-12T20:29:26.575Z",
+      "bytes": 3474888,
+      "sha256": "5080cb9503e3",
+      "status": "new"
+    },
+    "generative-ui-a2ui-fixed-schema": {
+      "order": 20,
+      "id": "generative-ui-a2ui-fixed-schema",
+      "name": "Fixed Schema A2UI",
+      "file": "CLAUDESDK-PY-vue-20-FixedSchemaA2UI.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/a2ui/fixed-schema/Demo.vue"
+      ],
+      "sourceSha": "7edbe9ed29e5",
+      "recordedAt": "2026-11-12T20:34:35.077Z",
+      "bytes": 8971788,
+      "sha256": "571be9777685",
+      "status": "new"
+    },
+    "generative-ui-a2ui-dynamic-schema": {
+      "order": 21,
+      "id": "generative-ui-a2ui-dynamic-schema",
+      "name": "Dynamic Schema A2UI",
+      "file": "CLAUDESDK-PY-vue-21-DynamicSchemaA2UI.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/a2ui/dynamic-schema/Demo.vue"
+      ],
+      "sourceSha": "6cc535d62e3b",
+      "recordedAt": "2026-11-12T20:36:27.743Z",
+      "bytes": 3712826,
+      "sha256": "477f0210b416",
+      "status": "new"
+    },
+    "generative-ui-json-render": {
+      "order": 22,
+      "id": "generative-ui-json-render",
+      "name": "JSON Render",
+      "file": "CLAUDESDK-PY-vue-22-JSONRender.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/json-render/Demo.vue"
+      ],
+      "sourceSha": "47211ede7840",
+      "recordedAt": "2026-11-12T19:31:39.171Z",
+      "bytes": 5176377,
+      "sha256": "0db250bc55b3",
+      "status": "new"
+    },
+    "generative-ui-hashbrown": {
+      "order": 23,
+      "id": "generative-ui-hashbrown",
+      "name": "Hashbrown",
+      "file": "CLAUDESDK-PY-vue-23-Hashbrown.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/hashbrown/Demo.vue"
+      ],
+      "sourceSha": "423e0c24694d",
+      "recordedAt": "2026-11-12T19:33:26.044Z",
+      "bytes": 4641017,
+      "sha256": "62d51e93f849",
+      "status": "new"
+    },
+    "generative-ui-mcp-apps": {
+      "order": 24,
+      "id": "generative-ui-mcp-apps",
+      "name": "MCP Apps",
+      "file": "CLAUDESDK-PY-vue-24-MCPApps.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/mcp-apps/Demo.vue"
+      ],
+      "sourceSha": "bf174154368b",
+      "recordedAt": "2026-11-12T19:47:15.215Z",
+      "bytes": 4616343,
+      "sha256": "21ca84977014",
+      "status": "new"
+    },
+    "generative-ui-open-generative-ui": {
+      "order": 25,
+      "id": "generative-ui-open-generative-ui",
+      "name": "Open Generative UI",
+      "file": "CLAUDESDK-PY-vue-25-OpenGenerativeUI.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/open-generative-ui/Demo.vue"
+      ],
+      "sourceSha": "b568f3216b47",
+      "recordedAt": "2026-11-12T19:49:41.921Z",
+      "bytes": 5234126,
+      "sha256": "61cd664acfa6",
+      "status": "new"
+    },
+    "generative-ui-state-rendering": {
+      "order": 26,
+      "id": "generative-ui-state-rendering",
+      "name": "State Rendering",
+      "file": "CLAUDESDK-PY-vue-26-StateRendering.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/state-rendering/Demo.vue"
+      ],
+      "sourceSha": "922c5065123b",
+      "recordedAt": "2026-11-12T19:54:56.283Z",
+      "bytes": 9870970,
+      "sha256": "36dedfa8b58c",
+      "status": "new"
+    },
+    "generative-ui-tool-rendering": {
+      "order": 27,
+      "id": "generative-ui-tool-rendering",
+      "name": "Tool Rendering",
+      "file": "CLAUDESDK-PY-vue-27-ToolRendering.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/tool-rendering/Demo.vue"
+      ],
+      "sourceSha": "e47a7a99f00c",
+      "recordedAt": "2026-11-12T19:56:37.669Z",
+      "bytes": 4811538,
+      "sha256": "93bfbfa1dfcc",
+      "status": "new"
+    },
+    "generative-ui-tool-based": {
+      "order": 28,
+      "id": "generative-ui-tool-based",
+      "name": "Component as tool",
+      "file": "CLAUDESDK-PY-vue-28-ComponentAsTool.webm",
+      "sources": [
+        "frontend/src/pages/generative-ui/tool-based/Demo.vue"
+      ],
+      "sourceSha": "ffd88b3fdf02",
+      "recordedAt": "2026-11-12T19:58:04.055Z",
+      "bytes": 4000050,
+      "sha256": "578b348f5463",
+      "status": "new"
+    },
+    "frontend-tools": {
+      "order": 29,
+      "id": "frontend-tools",
+      "name": "Frontend Tools",
+      "file": "CLAUDESDK-PY-vue-29-FrontendTools.webm",
+      "sources": [
+        "frontend/src/pages/frontend-tools/Demo.vue"
+      ],
+      "sourceSha": "3437d56562b3",
+      "recordedAt": "2026-11-12T19:59:45.325Z",
+      "bytes": 4844450,
+      "sha256": "23bf5c7aa75d",
+      "status": "new"
+    },
+    "shared-state": {
+      "order": 30,
+      "id": "shared-state",
+      "name": "Shared State",
+      "file": "CLAUDESDK-PY-vue-30-SharedState.webm",
+      "sources": [
+        "frontend/src/pages/shared-state/Demo.vue"
+      ],
+      "sourceSha": "a65738deab20",
+      "recordedAt": "2026-11-12T20:02:26.359Z",
+      "bytes": 8216875,
+      "sha256": "4dd1f288037c",
+      "status": "new"
+    },
+    "shared-state-rendering-in-app": {
+      "order": 31,
+      "id": "shared-state-rendering-in-app",
+      "name": "Render agent state in your app",
+      "file": "CLAUDESDK-PY-vue-31-RenderAgentStateInYourApp.webm",
+      "sources": [
+        "frontend/src/pages/shared-state/rendering-in-app/Demo.vue"
+      ],
+      "sourceSha": "f98c70a210bd",
+      "recordedAt": "2026-11-12T20:03:47.894Z",
+      "bytes": 4220847,
+      "sha256": "d49b565f3018",
+      "status": "new"
+    },
+    "shared-state-streaming": {
+      "order": 32,
+      "id": "shared-state-streaming",
+      "name": "State Streaming",
+      "file": "CLAUDESDK-PY-vue-32-StateStreaming.webm",
+      "sources": [
+        "frontend/src/pages/shared-state/streaming/Demo.vue"
+      ],
+      "sourceSha": "19c9e8cfe229",
+      "recordedAt": "2026-11-12T20:08:40.856Z",
+      "bytes": 9407539,
+      "sha256": "309430d55cea",
+      "status": "new"
+    },
+    "shared-state-agent-readonly": {
+      "order": 33,
+      "id": "shared-state-agent-readonly",
+      "name": "Agent Read-Only Context",
+      "file": "CLAUDESDK-PY-vue-33-AgentReadOnlyContext.webm",
+      "sources": [
+        "frontend/src/pages/shared-state/agent-readonly/Demo.vue"
+      ],
+      "sourceSha": "3f2429709beb",
+      "recordedAt": "2026-11-12T20:10:21.497Z",
+      "bytes": 4198150,
+      "sha256": "754e07b9842b",
+      "status": "new"
+    },
+    "human-in-the-loop": {
+      "order": 34,
+      "id": "human-in-the-loop",
+      "name": "HITL Overview",
+      "file": "CLAUDESDK-PY-vue-34-HITLOverview.webm",
+      "sources": [
+        "frontend/src/pages/human-in-the-loop/Demo.vue"
+      ],
+      "sourceSha": "7ca17c9e2b31",
+      "recordedAt": "2026-11-12T20:12:35.530Z",
+      "bytes": 5681903,
+      "sha256": "989ac0b0896a",
+      "status": "new"
+    },
+    "human-in-the-loop-governed-actions": {
+      "order": 35,
+      "id": "human-in-the-loop-governed-actions",
+      "name": "Governed Action Approval UI",
+      "file": "CLAUDESDK-PY-vue-35-GovernedActionApprovalUI.webm",
+      "sources": [
+        "frontend/src/pages/human-in-the-loop/governed-actions/Demo.vue"
+      ],
+      "sourceSha": "8ad2951996e9",
+      "recordedAt": "2026-11-12T20:14:23.697Z",
+      "bytes": 4390424,
+      "sha256": "00e063c6fa7f",
+      "status": "new"
+    },
+    "built-in-agent": {
+      "order": 36,
+      "id": "built-in-agent",
+      "name": "Built-in Agent",
+      "file": "CLAUDESDK-PY-vue-36-BuiltInAgent.webm",
+      "sources": [
+        "frontend/src/pages/built-in-agent/Demo.vue"
+      ],
+      "sourceSha": "96ba537d4c73",
+      "recordedAt": "2026-11-12T20:15:27.602Z",
+      "bytes": 3417353,
+      "sha256": "2fc389a7b2c9",
+      "status": "new"
+    },
+    "backend-copilot-runtime": {
+      "order": 37,
+      "id": "backend-copilot-runtime",
+      "name": "Copilot Runtime",
+      "file": "CLAUDESDK-PY-vue-37-CopilotRuntime.webm",
+      "sources": [
+        "frontend/src/pages/backend/copilot-runtime/Demo.vue",
+        "frontend/src/pages/backend/copilot-runtime/Demo.vue"
+      ],
+      "sourceSha": "279bf6e303c5",
+      "recordedAt": "2026-11-12T20:16:46.121Z",
+      "bytes": 5265347,
+      "sha256": "8dfc3fc9a32e",
+      "status": "new"
+    },
+    "backend-runtime-endpoints": {
+      "order": 38,
+      "id": "backend-runtime-endpoints",
+      "name": "Runtime HTTP endpoints",
+      "file": "CLAUDESDK-PY-vue-38-RuntimeHTTPEndpoints.webm",
+      "sources": [
+        "frontend/src/pages/backend/runtime-endpoints/Demo.vue"
+      ],
+      "sourceSha": "fb633aa1a63b",
+      "recordedAt": "2026-11-12T20:17:50.341Z",
+      "bytes": 5528242,
+      "sha256": "5abbd5a0ea44",
+      "status": "new"
+    },
+    "backend-custom-agent": {
+      "order": 39,
+      "id": "backend-custom-agent",
+      "name": "Use any model router",
+      "file": "CLAUDESDK-PY-vue-39-UseAnyModelRouter.webm",
+      "sources": [
+        "frontend/src/pages/backend/custom-agent/Demo.vue"
+      ],
+      "sourceSha": "e6efa0b29495",
+      "recordedAt": "2026-11-12T20:18:52.678Z",
+      "bytes": 3928383,
+      "sha256": "961f70463cf5",
+      "status": "new"
+    },
+    "backend-agent-runner": {
+      "order": 40,
+      "id": "backend-agent-runner",
+      "name": "AgentRunner and persistence",
+      "file": "CLAUDESDK-PY-vue-40-AgentRunnerAndPersistence.webm",
+      "sources": [
+        "frontend/src/pages/backend/agent-runner/Demo.vue"
+      ],
+      "sourceSha": "a7063dad24c9",
+      "recordedAt": "2026-11-12T20:20:20.010Z",
+      "bytes": 6832705,
+      "sha256": "c173ff7fbc33",
+      "status": "new"
+    },
+    "backend-ag-ui": {
+      "order": 41,
+      "id": "backend-ag-ui",
+      "name": "Connect AG-UI agents",
+      "file": "CLAUDESDK-PY-vue-41-ConnectAGUIAgents.webm",
+      "sources": [
+        "frontend/src/pages/backend/ag-ui/Demo.vue"
+      ],
+      "sourceSha": "5117ae0d3a18",
+      "recordedAt": "2026-11-12T20:21:55.424Z",
+      "bytes": 4817375,
+      "sha256": "13ce50fe445b",
+      "status": "new"
+    },
+    "auth": {
+      "order": 42,
+      "id": "auth",
+      "name": "Authentication",
+      "file": "CLAUDESDK-PY-vue-42-Authentication.webm",
+      "sources": [
+        "frontend/src/pages/auth/Demo.vue"
+      ],
+      "sourceSha": "0873c860ef35",
+      "recordedAt": "2026-11-12T20:23:16.573Z",
+      "bytes": 6577801,
+      "sha256": "3cedc0066d4e",
+      "status": "new"
+    },
+    "multi-agent-subagents": {
+      "order": 43,
+      "id": "multi-agent-subagents",
+      "name": "SubAgents",
+      "file": "CLAUDESDK-PY-vue-43-SubAgents.webm",
+      "sources": [
+        "frontend/src/pages/multi-agent/subagents/Demo.vue"
+      ],
+      "sourceSha": "5f7a1a79ab78",
+      "recordedAt": "2026-11-12T20:28:06.047Z",
+      "bytes": 7701700,
+      "sha256": "600258c08990",
+      "status": "new"
+    }
+  }
+}

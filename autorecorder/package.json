@@ -1,0 +1,30 @@
+{
+  "name": "autorecorder",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "record": "tsx cli.ts",
+    "record:all": "tsx cli.ts",
+    "record:list": "tsx cli.ts --list",
+    "doctor": "tsx cli.ts --doctor",
+    "doctor:online": "tsx cli.ts --doctor --online",
+    "manifest": "tsx manifest.ts",
+    "manifest:check": "tsx manifest.ts --check",
+    "nav:check": "tsx config/nav-check.ts",
+    "record:each": "tsx record-each.ts",
+    "typecheck": "tsc --noEmit",
+    "pages:generate": "tsx config/generate-pages.ts",
+    "probe": "tsx tools/probe.ts",
+    "sweep": "tsx tools/sweep.ts"
+  },
+  "dependencies": {
+    "playwright": "1.62.1",
+    "shiki": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "tsx": "^4.19.3",
+    "typescript": "^5"
+  }
+}

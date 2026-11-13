@@ -1,0 +1,357 @@
+{
+  "docRoot": "https://docs.copilotkit.ai/vue/claude-sdk-python",
+  "syncedAt": "2026-11-12",
+  "method": "GET <doc url>.md (text/markdown)",
+  "pages": [
+    {
+      "file": "pages/vue__claude-sdk-python__auth.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/auth",
+      "title": "Authentication",
+      "sha256": "18e37d281ca7f5dd",
+      "bytes": 15237
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__backend__ag-ui.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/backend/ag-ui",
+      "title": "Connect AG-UI agents",
+      "sha256": "30a6226f21ac0344",
+      "bytes": 2630
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__backend__agent-runner.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/backend/agent-runner",
+      "title": "AgentRunner and persistence",
+      "sha256": "0c214859bed43ddb",
+      "bytes": 14677
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__backend__copilot-runtime.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/backend/copilot-runtime",
+      "title": "Copilot Runtime",
+      "sha256": "401dcb26669b0e05",
+      "bytes": 19586
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__backend__custom-agent.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/backend/custom-agent",
+      "title": "Use any model router",
+      "sha256": "1ca17d4d46d207d1",
+      "bytes": 18056
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__backend__runtime-endpoints.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/backend/runtime-endpoints",
+      "title": "Runtime HTTP endpoints",
+      "sha256": "a7e5068fd4eb068b",
+      "bytes": 26891
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__built-in-agent.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/built-in-agent",
+      "title": "Built-in Agent",
+      "sha256": "4b889cec09e1eb39",
+      "bytes": 1043
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__custom-look-and-feel__css.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/custom-look-and-feel/css",
+      "title": "CSS Customization",
+      "sha256": "17d2258bc838b4f3",
+      "bytes": 5730
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__custom-look-and-feel__headless-ui.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/custom-look-and-feel/headless-ui",
+      "title": "Fully Headless UI",
+      "sha256": "8a6a76b7d51d25b7",
+      "bytes": 7223
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__custom-look-and-feel__slots.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/custom-look-and-feel/slots",
+      "title": "Slots (Subcomponents)",
+      "sha256": "992430bb56a5ab1d",
+      "bytes": 8798
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__frontend-tools.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/frontend-tools",
+      "title": "Frontend Tools",
+      "sha256": "c039a209fbfeae2f",
+      "bytes": 3136
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui",
+      "title": "Generative UI",
+      "sha256": "14df58984f15c6b4",
+      "bytes": 976
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__a2ui.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/a2ui",
+      "title": "A2UI",
+      "sha256": "f8e94e379f0323cb",
+      "bytes": 6213
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__a2ui__dynamic-schema.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/a2ui/dynamic-schema",
+      "title": "Dynamic Schema A2UI",
+      "sha256": "2aab9e22474d347c",
+      "bytes": 19720
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__a2ui__fixed-schema.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/a2ui/fixed-schema",
+      "title": "Fixed Schema A2UI",
+      "sha256": "d4ef367b81934340",
+      "bytes": 19724
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components",
+      "title": "Components and surfaces",
+      "sha256": "a1a0580fb6263230",
+      "bytes": 33707
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__catalogs.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/catalogs",
+      "title": "Catalogs",
+      "sha256": "65728d31d442e28f",
+      "bytes": 23847
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__from-a2ui.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/from-a2ui",
+      "title": "Adopt from A2UI",
+      "sha256": "bb177e76a8f8c729",
+      "bytes": 16752
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__markdown-mode.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/markdown-mode",
+      "title": "Markdown mode",
+      "sha256": "2793b9cc6a2433bd",
+      "bytes": 8768
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__standard-catalog.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/standard-catalog",
+      "title": "Standard catalog",
+      "sha256": "52ed5db5f6ce4568",
+      "bytes": 16211
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__state-and-actions.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/state-and-actions",
+      "title": "State and actions",
+      "sha256": "89babba65924c3d5",
+      "bytes": 23534
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__surfaces.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/surfaces",
+      "title": "Surfaces",
+      "sha256": "685cba94456f6026",
+      "bytes": 21300
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__theming.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/theming",
+      "title": "Theming",
+      "sha256": "04501bc95c469e0b",
+      "bytes": 6813
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__components__transports.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/components/transports",
+      "title": "Transports",
+      "sha256": "8eebb8d107b24461",
+      "bytes": 5169
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__hashbrown.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/hashbrown",
+      "title": "Hashbrown",
+      "sha256": "59ef28e3d543becf",
+      "bytes": 12009
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__json-render.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/json-render",
+      "title": "JSON Render",
+      "sha256": "44afc5d7809148db",
+      "bytes": 10082
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__mcp-apps.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/mcp-apps",
+      "title": "MCP Apps",
+      "sha256": "a56ae2f57bffbfdd",
+      "bytes": 5458
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__open-generative-ui.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/open-generative-ui",
+      "title": "Open Generative UI",
+      "sha256": "a9c986596f37b523",
+      "bytes": 11751
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__tool-based.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/tool-based",
+      "title": "Components as Tools",
+      "sha256": "a9ddc5233d45ed22",
+      "bytes": 3496
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__generative-ui__tool-rendering.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/generative-ui/tool-rendering",
+      "title": "Tool Call Rendering",
+      "sha256": "feb75b1e2821efb9",
+      "bytes": 10250
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__headless-threads.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/headless-threads",
+      "title": "Headless Threads",
+      "sha256": "0a0534fceff72c69",
+      "bytes": 7608
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__human-in-the-loop.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/human-in-the-loop",
+      "title": "HITL Overview",
+      "sha256": "533e006df8aa14ef",
+      "bytes": 5177
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__human-in-the-loop__governed-actions.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/human-in-the-loop/governed-actions",
+      "title": "Governed Action Approval UI",
+      "sha256": "6108b33ad1000801",
+      "bytes": 8117
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__inspector.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/inspector",
+      "title": "Inspector",
+      "sha256": "90b6e5a517899fda",
+      "bytes": 21171
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__multi-agent__subagents.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/multi-agent/subagents",
+      "title": "Sub-Agents",
+      "sha256": "30733fdc7ab63440",
+      "bytes": 10472
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__prebuilt-components.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/prebuilt-components",
+      "title": "Prebuilt Components",
+      "sha256": "e8a27b7e15cee3d8",
+      "bytes": 2806
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__prebuilt-components__chat-controls.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/prebuilt-components/chat-controls",
+      "title": "Open, close, and feedback",
+      "sha256": "970eb2f4aae93d45",
+      "bytes": 2547
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__prebuilt-components__chat.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/prebuilt-components/chat",
+      "title": "CopilotChat",
+      "sha256": "8c78380a60f9fd3b",
+      "bytes": 2266
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__prebuilt-components__copilot-threads-drawer.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/prebuilt-components/copilot-threads-drawer",
+      "title": "Threads Drawer",
+      "sha256": "533c2e47ebfefe6d",
+      "bytes": 10495
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__prebuilt-components__popup.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/prebuilt-components/popup",
+      "title": "CopilotPopup",
+      "sha256": "a94a0f33b5079a52",
+      "bytes": 1525
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__prebuilt-components__sidebar.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/prebuilt-components/sidebar",
+      "title": "CopilotSidebar",
+      "sha256": "a158404087a56198",
+      "bytes": 1713
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__programmatic-control.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/programmatic-control",
+      "title": "Programmatic Control",
+      "sha256": "97055bafbe166594",
+      "bytes": 5203
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__quickstart.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/quickstart",
+      "title": "Vue",
+      "sha256": "17b7bd73183f0ec1",
+      "bytes": 8278
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__shared-state.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/shared-state",
+      "title": "Shared State",
+      "sha256": "ed28a7e0900287b9",
+      "bytes": 14806
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__shared-state__agent-readonly.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/shared-state/agent-readonly",
+      "title": "Agent Read-Only Context",
+      "sha256": "7f923eca56853297",
+      "bytes": 3480
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__shared-state__rendering-in-app.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/shared-state/rendering-in-app",
+      "title": "Render agent state in your app",
+      "sha256": "006a92dd9278bf2f",
+      "bytes": 5231
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__shared-state__streaming.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/shared-state/streaming",
+      "title": "State Streaming",
+      "sha256": "bcd1b59fa303fb69",
+      "bytes": 8417
+    },
+    {
+      "file": "pages/vue__claude-sdk-python__threads-lifecycle.md",
+      "url": "https://docs.copilotkit.ai/vue/claude-sdk-python/threads-lifecycle",
+      "title": "Thread & History Lifecycle",
+      "sha256": "7c69cd4fd84e0dca",
+      "bytes": 10686
+    }
+  ],
+  "returned404": [
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/built-in-agent/server-tools",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/built-in-agent/mcp-servers",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/built-in-agent/advanced-configuration",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/built-in-agent/model-selection",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/model-selection",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/model-selection/openai",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/model-selection/anthropic",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/model-selection/google",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/server-tools",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/mcp-servers",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/advanced-configuration",
+    "https://docs.copilotkit.ai/vue/claude-sdk-python/backend/model-router"
+  ]
+}
